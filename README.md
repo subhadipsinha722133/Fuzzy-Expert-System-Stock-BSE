@@ -50,7 +50,53 @@ As the outcome of this model found to be satisfactory ✅, this can be implement
 - ⏰ Real-time Data Feeds integration for live analysis 📡.
 
 ---
+# 📊 Dynamic Stock Portfolio Selection & Optimization System
 
+### 🚀 Powered by Dempster-Shafer Fuzzy Expert System (DS-FES) & Ant Colony Optimization (ACO)
+
+---
+
+## 📝 Project Overview
+This repository contains an industry-grade **Decision Support System (DSS)** for automated stock ranking and portfolio optimization within the Bombay Stock Exchange (BSE). By replacing traditional, subjective expert consensus methods (like the Fuzzy Delphi Method) with data-driven **Grey Relational Analysis (GRA)**, this system processes a decade-long financial dataset dynamically to identify high-return, low-risk investment configurations under real-world market uncertainties.
+
+---
+
+## 🛠️ System Architecture & Framework
+The application architecture is divided into four main soft computing pipelines:
+1. **Feature Selection (GRA Framework):** Evaluates multi-dimensional financial parameters (such as Diluted EPS, Profit Margin, Price-to-Book Value, and Debt-to-Equity Ratio) to filter out information redundancies using a correlation mask.
+2. **Fuzzification Module:** Maps crisp normalized corporate indicators to linguistic categories (*Low, Standard, High*) utilizing statistical percentile bounds through custom Trapezoidal Membership Functions.
+3. **Automated Synthesis Engine (DS Theory):** Automatically generates a comprehensive base of 81 rules using Dempster-Shafer Rule of Combination, eliminating manual rule-writing bottlenecks.
+4. **Portfolio Optimizer (Continuous ACO Solver):** Maximizes the Modified Sharpe Ratio against downside semi-variance variations using an interactive Ant Colony Heuristic to output perfect capital weight proportions.
+
+---
+
+## 📑 Core Application Features & Tab Structures
+
+### 📅 Tab 1: Historical Optimization Dashboard
+* **Dynamic Loading:** Connects directly with operational matrix files (`6_Final_Ranking.csv`, `Avg_Return_Matrix.csv`).
+* **Financial Year Filter:** Tracks actual asset trajectories across historical backtesting cycles (FY13 to FY25) instantaneously.
+* **Risk-Return Trade-offs:** Visualizes learning convergence tracks and downside variation coordinate spreads via active Matplotlib charts.
+
+### ⚡ Tab 2: Real-Time Simulation Panel
+* **Run-Time Parameter Modulation:** Provides a direct testing workspace where users can manually input present-time custom return and risk configurations.
+* **Instant Re-weighting Solver:** Automatically triggers the background ACO array script upon value changes to show immediate budget redirection behavior.
+
+### 🎯 Tab 3: AI Stock Selection Matrix
+* **Risk-Reward Appetite Sliders:** Allows users to set minimum acceptable return thresholds and maximum risk constraints.
+* **Smart Filtering Recommendations:** Displays an explicit filtered recommendation pool showing the best specific company names matching the given criteria.
+
+### 📈 Tab 4: Predictive Success Analytics
+* **Empirical Backtesting Track:** Displays predictive hit-ratio validation trend line scores across several financial years (FY23 to FY26).
+* **soft Computing Evaluation Matrix:** Validates structural performance and parameter efficiency logs against real historical market cycles.
+
+---
+
+## 🚀 How to Run the Workspace
+
+### 🔧 1. Prerequisites Setup
+Ensure you have Python installed on your local workstation environment, then run the terminal installation command:
+```bash
+pip install -r requirements.txt
 ## 🚀 Usage
 To use this system, provide stock data corresponding to the factors listed above. The model will process the inputs and output a recommended portfolio allocation.
 
