@@ -340,9 +340,9 @@ if ranking_df is not None:
 
 
             if loss_probability > 25.0:
-                st.error(f"🚨 **High Downside Risk Alert:** Is asset ka downside semi-variance volatility matrix heavy hai, jis vajah se ₹{principal_amount} daalne par capital erosion ka risk elevated ({loss_probability:.1f}%) hai. Ensure diversification!")
+                st.error(f"🚨**High Downside Risk Alert:** The downside semi-variance volatility matrix for this asset is significantly heavy, leading to an elevated capital erosion risk of {loss_probability:.1f}% on an investment of ₹{principal_amount}. Please ensure proper diversification.")
             else:
-                st.success(f"✔️ **Capital Stability Approved:** Your proposed choice showcases high reward resilience with safe downside limits. Optimal for long term income paths!")
+                st.success(f"✔️ **Capital Stability Approved:** Your selected option exhibits high reward resilience with well-contained downside risk, making it optimal for long-term income-focused portfolios.")
 
 
 
