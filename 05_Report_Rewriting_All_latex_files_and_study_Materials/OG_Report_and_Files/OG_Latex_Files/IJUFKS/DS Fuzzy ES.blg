@@ -1,0 +1,20 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: DS Fuzzy ES.aux
+The style file: elsarticle-num.bst
+Database file #1: BIBPORTFOLIO.bib
+I was expecting a `,' or a `}'---line 454 of file BIBPORTFOLIO.bib
+ :   
+ :   pages   = "275-286",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 587 of file BIBPORTFOLIO.bib
+ : @inproceedings{Bhattacharyya2013
+ :                                 ,
+I'm skipping whatever remains of this entry
+Warning--empty pages in Fang2006
+Name 1 in "Hsu, T. H., and Yang, T. H." has a comma at the end for entry Hsu2000
+while executing---line 1507 of file elsarticle-num.bst
+Name 2 in "Murry, T. J. and Pipino, L. L., and Gigch, J. P." has a comma at the end for entry Murry1985
+while executing---line 1507 of file elsarticle-num.bst
+Name 5 in "Ishikawa, A. and Amagasa, M. and Shiga, T. and Tomizawa, G. and Tatsuta, R., and Mieno, H." has a comma at the end for entry Ishikawa1993
+while executing---line 1507 of file elsarticle-num.bst
+(There were 5 error messages)

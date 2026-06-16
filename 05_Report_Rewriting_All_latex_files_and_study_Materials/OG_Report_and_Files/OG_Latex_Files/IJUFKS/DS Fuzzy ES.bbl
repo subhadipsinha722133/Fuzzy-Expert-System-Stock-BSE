@@ -1,0 +1,212 @@
+\begin{thebibliography}{10}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{Markowitz1952}
+H.~Markowitz, Portfolio selection, Journal of Finance 7 (1952) 77–91.
+
+\bibitem{Zhou2000}
+X.~Y. Zhou, D.~Li, Continuous-time mean-variance portfolio selection: A
+  stochastic lq framework, Applied Mathematics Optimization 42 (2000) 19--33.
+
+\bibitem{Fang2006}
+Y.~Fang, S.~Wang, An interval semi-absolute deviation model for portfolio
+  selection, in: Springer, LNAI 4223, 2006.
+
+\bibitem{Ogryczak2000}
+W.~Ogryczak, Multiple criteria linear programming model, Annals of Operations
+  Research 97 (2000) 143--162.
+
+\bibitem{Huang2008}
+X.~Huang, Risk curve and fuzzy portfolio selection, Computers and Mathematics
+  with Applications 55 (2008) 1102--1112.
+
+\bibitem{Xidonas2011}
+P.~Xidonas, G.~Mavrotas, C.~Zopounidis, J.~Psarras, Ipssis: An integrated
+  multicriteria decision support system for equity portfolio construction and
+  selection, European Journal of Operational Research 210~(2) (2011) 398--409.
+
+\bibitem{Edwards2007}
+R.~D. Edwards, J.~Magee, W.~Bassetti, Technical analysis of stock trends, CRC
+  Press, 2007.
+
+\bibitem{Abdollahzadeh2002}
+F.~Abdollahzadeh, Investment management and tehran stock exchange (2002).
+
+\bibitem{Siskos1989}
+J.~Siskos, D.~Despotis, A dss oriented method for multiobjective linear
+  programming problems, Decision Support Systems 5~(1) (1989) 47--55.
+
+\bibitem{Adebiyi2012ANN}
+A.~Adebiyi, C.~Ayo, M.~O. Adebiyi, S.~Otokiti, Stock price prediction using
+  neural network with hybridized market indicators, Journal of Emerging Trends
+  in Computing and Information Sciences 3~(1) (2012) 1--9.
+
+\bibitem{Fernandez2007ANN}
+A.~Fern{\'a}ndez, S.~G{\'o}mez, Portfolio selection using neural networks,
+  Computers \& Operations Research 34~(4) (2007) 1177--1191.
+
+\bibitem{Ko2008ANN}
+P.~C. Ko, P.~C. Lin, Resource allocation neural network in portfolio selection,
+  Expert Systems with Applications 35~(1) (2008) 330--337.
+
+\bibitem{Olatunji2011ANN}
+S.~O. Olatunji, M.~S. Al-Ahmadi, M.~Elshafei, Y.~A. Fallatah, Saudi arabia
+  stock prices forecasting using artificial neural networks, in: Applications
+  of Digital Information and Web Technologies (ICADIWT), 2011 Fourth
+  International Conference on the, IEEE, 2011, pp. 81--86.
+
+\bibitem{De2011ANN}
+F.~A. De~Oliveira, L.~E. Z{\'a}rate, M.~de~Azevedo~Reis, C.~N. Nobre, The use
+  of artificial neural networks in the analysis and prediction of stock prices,
+  in: Systems, Man, and Cybernetics (SMC), 2011 IEEE International Conference
+  on, IEEE, 2011, pp. 2151--2155.
+
+\bibitem{Chen2009GAa}
+J.-S. Chen, Y.-T. Lin, A partitioned portfolio insurance strategy by a
+  relational genetic algorithm, Expert Systems with Applications 36~(2) (2009)
+  2727--2734.
+
+\bibitem{Chang2009GA}
+T.-J. Chang, S.-C. Yang, K.-J. Chang, Portfolio optimization problems in
+  different risk measures using genetic algorithm, Expert Systems with
+  Applications 36~(7) (2009) 10529--10537.
+
+\bibitem{Chen2009GAb}
+J.-S. Chen, J.-L. Hou, S.-M. Wu, Y.-W. Chang-Chien, Constructing investment
+  strategy portfolios by combination genetic algorithms, Expert Systems with
+  Applications 36~(2) (2009) 3824--3828.
+
+\bibitem{Jiao2007GA}
+J.~R. Jiao, Y.~Zhang, Y.~Wang, A heuristic genetic algorithm for product
+  portfolio planning, Computers \& Operations Research 34~(6) (2007)
+  1777--1799.
+
+\bibitem{Chen2010GA}
+Y.~Chen, S.~Mabu, K.~Hirasawa, A model of portfolio optimization using time
+  adapting genetic network programming, Computers \& operations research
+  37~(10) (2010) 1697--1707.
+
+\bibitem{Tiryaki2005fuzzy}
+F.~Tiryaki, M.~Ahlatcioglu, Fuzzy stock selection using a new fuzzy ranking and
+  weighting algorithm, Applied Mathematics and Computation 170 (2005) 144--157.
+
+\bibitem{chen2001fuzzy}
+C.-T. Chen, A fuzzy approach to select the location of the distribution center,
+  Fuzzy Sets and Systems 118~(1) (2001) 65--73.
+
+\bibitem{Bilbao2006fuzzy}
+A.~Bilbao-Terol, B.~M. P\'er-Gladish, Arenas-Parra, M.~V. Rodr\'iguez-Uria,
+  Fuzzy compromise programming for portfolio selection, Applied Mathematics and
+  Computation 173 (2006) 251–264.
+
+\bibitem{Bermudez2007fuzzy}
+J.~D. Bermudez, J.~V. Segura, E.~Vercher, A fuzzy ranking strategy for
+  portfolio selection applied to the spanish stock market, in: Fuzzy Systems
+  Conference, 2007. FUZZ-IEEE 2007., 2007, pp. 1--4.
+
+\bibitem{Fasanghari2010design}
+M.~Fasanghari, G.~A. Montazer, Design and implementation of fuzzy expert system
+  for tehran stock exchange portfolio recommendation, Expert Systems with
+  Applications 37~(9) (2010) 6138--6147.
+
+\bibitem{Xidonas2009}
+P.~Xidonas, E.~Ergazakis, K.~Ergazakis, K.~Metaxiotis, D.~Askounis,
+  G.~Mavrotas, J.~Psarras, On the selection of equity securities: An expert
+  systems methodology and an application on the athens stock exchange, Expert
+  Systems with Applications 36 (2009) 11966–--11980.
+
+\bibitem{Rodriguez2012hesitant}
+R.~M. Rodr\'{i}guez, L.~Mart\'{i}nez, F.~Herrera, Hesitant fuzzy linguistic
+  term sets for decision making, Fuzzy Systems, IEEE Transactions on 20~(1)
+  (2012) 109--119.
+
+\bibitem{Hsu2000}
+T.~H. Hsu, T.~H. Yang, Application of fuzzy analytic hierarchy process in the
+  selection of advertising media, Journal of Management and Systems 7~(1)
+  (2000) 19--39.
+
+\bibitem{Murry1985}
+T.~J. Murry, L.~L. Pipino, J.~P. Gigch, A pilot study of fuzzy set modification
+  of delphi, Human Systems Management 5~(1) (1985) 76--80.
+
+\bibitem{Ishikawa1993}
+A.~Ishikawa, M.~Amagasa, T.~Shiga, G.~Tomizawa, R.~Tatsuta, H.~Mieno, The
+  max–min delphi method and fuzzy delphi method via fuzzy integration, Fuzzy
+  Sets and Systems 55~(3) (1993) 241--253.
+
+\bibitem{Kuo2008}
+Y.~Kuo, P.~Chen, Constructing performance appraisal indicators for mobility of
+  the service industries using fuzzy delphi method, Expert Systems with
+  Applications 35 (2008) 1930--1939.
+
+\bibitem{Falsafi2011employees}
+N.~Falsafi, R.~Y. Zenouz, M.~M. Mozaffari, Employees’ performance appraisal
+  with topsis under fuzzy environment, International Journal of Society Systems
+  Science 3~(3) (2011) 272--290.
+
+\bibitem{Dempster1967}
+A.~P. Dempster, Upper and lower probabilities induced by a multivalued mapping,
+  The annals of mathematical statistics (1967) 325--339.
+
+\bibitem{Dempster1968}
+A.~P. Dempster, A generalization of bayesian inference, Journal of the Royal
+  Statistical Society. Series B (Methodological) (1968) 205--247.
+
+\bibitem{Shafer1976}
+G.~Shafer, et~al., A mathematical theory of evidence, Vol.~1, Princeton
+  university press Princeton, 1976.
+
+\bibitem{jackson1986introduction}
+P.~Jackson, Introduction to expert systems, Addison-Wesley Pub. Co., Reading,
+  MA, 1986.
+
+\bibitem{darlington2000essence}
+K.~Darlington, The essence of expert systems, Prentice Hall, 2000.
+
+\bibitem{bellman1970decision}
+R.~E. Bellman, L.~A. Zadeh, Decision-making in a fuzzy environment, Management
+  science 17~(4) (1970) B--141.
+
+\bibitem{kandel1991fuzzy}
+A.~Kandel, Fuzzy expert systems, CRC press, 1991.
+
+\bibitem{matthews2003formal}
+C.~Matthews, A formal specification for a fuzzy expert system, Information and
+  Software Technology 45~(7) (2003) 419--429.
+
+\bibitem{wang1999course}
+L.-X. Wang, A course in fuzzy systems, Prentice-Hall press, USA, 1999.
+
+\bibitem{Ngai2003}
+E.~W.~T. Ngai, F.~K.~T. Wat, Design and development of a fuzzy expert system
+  for hotel selection, Omega 31~(4).
+
+\bibitem{Dorigo2006}
+M.~Dorigo, M.~Birattari, T.~St{\"u}tzle, Ant colony optimization, Computational
+  Intelligence Magazine, IEEE 1~(4) (2006) 28--39.
+
+\bibitem{Deneubourg1990}
+J.-L. Deneubourg, S.~Aron, S.~Goss, J.~M. Pasteels, The self-organizing
+  exploratory pattern of the argentine ant, Journal of insect behavior 3~(2)
+  (1990) 159--168.
+
+\bibitem{Bhattacharyya2013}
+R.~Bhattacharyya, Possibilistic sharpe ratio based novice portfolio selection
+  models, in: National Conference on Advancement of Computing in Engineering
+  Research (ACER 13) Krishnagar, West Bengal, India, 2013, pp. 33--45.
+
+\bibitem{Dymova2010new}
+L.~Dymova, P.~Sevastianov, P.~Bartosiewicz, A new approach to the rule-base
+  evidential reasoning: Stock trading expert system application, Expert systems
+  with Applications 37~(8) (2010) 5564--5576.
+
+\bibitem{Yunusoglu2013fuzzy}
+M.~G. Yunusoglu, H.~Selim, A fuzzy rule based expert system for stock
+  evaluation and portfolio construction: An application to istanbul stock
+  exchange, Expert Systems with Applications 40~(3) (2013) 908--920.
+
+\end{thebibliography}

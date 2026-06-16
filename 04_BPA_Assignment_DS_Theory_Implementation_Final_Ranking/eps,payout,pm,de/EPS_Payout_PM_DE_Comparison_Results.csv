@@ -1,0 +1,5 @@
+Fiscal Year,Common Stocks in Top 15,Success Rate,Successfully Predicted Matches
+FY23,8,53.33%,"Tech Mahindra Ltd, Bajaj Finance Ltd, Titan Company Ltd, Reliance Industries Ltd, Tata Steel Ltd, Bharti Airtel Ltd, Trent Ltd, Tata Consultancy Services Ltd"
+FY24,6,40.00%,"Tech Mahindra Ltd, Bajaj Finance Ltd, Reliance Industries Ltd, ITC Ltd, State Bank of India, Tata Consultancy Services Ltd"
+FY25,8,53.33%,"Titan Company Ltd, Tata Consultancy Services Ltd, Reliance Industries Ltd, Tata Steel Ltd, Power Grid Corporation of India Ltd, State Bank of India, ITC Ltd, Larsen & Toubro Ltd"
+FY26,5,33.33%,"Tech Mahindra Ltd, Bajaj Finance Ltd, ITC Ltd, Trent Ltd, Tata Consultancy Services Ltd"

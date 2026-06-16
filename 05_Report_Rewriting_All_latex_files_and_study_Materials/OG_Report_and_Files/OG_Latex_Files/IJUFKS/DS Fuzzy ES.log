@@ -1,0 +1,531 @@
+This is XeTeX, Version 3.1415926-2.3-0.9997.5 (MiKTeX 2.9 64-bit) (preloaded format=xelatex 2015.11.4)  11 JUL 2018 13:37
+entering extended mode
+**DS*Fuzzy*ES.tex
+
+("D:\Research\Research\Research documents\Fuzzy Expert System for Portfolio\Usi
+ng DS Theory\Fuzzy DS Theory\IJUFKS_Review\IJUFKS\DS Fuzzy ES.tex"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2009-06-19, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, lao, latin, lat
+vian, lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerm
+an, ngerman-x-2009-06-19, nynorsk, oriya, panjabi, pinyin, polish, portuguese, 
+romanian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swis
+sgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, u
+senglishmax, welsh, loaded.
+
+("D:\Research\Research\Research documents\Fuzzy Expert System for Portfolio\Usi
+ng DS Theory\Fuzzy DS Theory\IJUFKS_Review\IJUFKS\ws-ijufks.cls"
+Document Class: ws-ijufks 1999/09/09 v1.0 Standardized LaTeX document class
+\trimheight=\dimen102
+\trimwidth=\dimen103
+\typeheight=\dimen104
+\typewidth=\dimen105
+\draftrule=\dimen106
+\tempdimen=\dimen107
+\tablewidth=\dimen108
+\normaltextheight=\dimen109
+\tempbox=\box26
+\tablewd=\dimen110
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+
+Warning: psfig.sty could be be found.
+
+
+Warning: epsfsafe.tex could not be found.
+
+
+epsfig.sty inputed...ok
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\epsfig.sty"
+
+LaTeX Warning: You have requested document class `ws-ijufks',
+               but the document class provides `epsfig'.
+
+Document Class: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: xetex.def on input line 91.
+
+("C:\Program Files\MiKTeX 2.9\tex\xelatex\xetex-def\xetex.def"
+File: xetex.def 2009/11/22 v0.94 LaTeX color/graphics driver for XeTeX (RRM/JK)
+
+))
+\Gin@req@height=\dimen111
+\Gin@req@width=\dimen112
+)
+\epsfxsize=\dimen113
+\epsfysize=\dimen114
+)
+
+epsf.sty inputed...ok
+("C:\Program Files\MiKTeX 2.9\tex\latex\epsf\epsf.sty"
+This is `epsf.tex' v2.7.4 <14 February 2011>
+\epsffilein=\read1
+\epsfframemargin=\dimen115
+\epsfframethickness=\dimen116
+\epsfrsize=\dimen117
+\epsftmp=\dimen118
+\epsftsize=\dimen119
+\epsfxsize=\dimen120
+\epsfysize=\dimen121
+\pspoints=\dimen122
+)
+\c@table=\count86
+\tabledim=\dimen123
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\c@lemma=\count87
+\c@corollary=\count88
+\c@proposition=\count89
+\c@definition=\count90
+\c@example=\count91
+\c@remark=\count92
+\c@question=\count93
+\c@notation=\count94
+\c@theorem=\count95
+\c@corollary=\count96
+\c@lemma=\count97
+\c@proposition=\count98
+\c@definition=\count99
+\c@example=\count100
+\c@remark=\count101
+\c@notation=\count102
+\c@question=\count103
+\c@step=\count104
+\bibindent=\dimen124
+\c@appendix=\count105
+\minute=\count106
+\hour=\count107
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\rotating\rotating.sty"
+Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count108
+\rotFPtop=\skip43
+\rotFPbot=\skip44
+\rot@float@box=\box27
+\rot@mess@toks=\toks15
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\@emptytoks=\toks16
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2009/06/22 v3.00
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsmath.sty"
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip45
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amstext.sty"
+Package: amstext 2000/06/29 v2.01
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks17
+\ex@=\dimen125
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen126
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsopn.sty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count109
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count110
+\leftroot@=\count111
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count112
+\DOTSCASE@=\count113
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box28
+\strutbox@=\box29
+\big@size=\dimen127
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count114
+\c@MaxMatrixCols=\count115
+\dotsspace@=\muskip10
+\c@parentequation=\count116
+\dspbrk@lvl=\count117
+\tag@help=\toks18
+\row@=\count118
+\column@=\count119
+\maxfields@=\count120
+\andhelp@=\toks19
+\eqnshift@=\dimen128
+\alignsep@=\dimen129
+\tagshift@=\dimen130
+\tagwidth@=\dimen131
+\totwidth@=\dimen132
+\lineht@=\dimen133
+\@envbody=\toks20
+\multlinegap=\skip46
+\multlinetaggap=\skip47
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\mh\mathtools.sty"
+Package: mathtools 2012/04/24 v1.12 mathematical typesetting tools
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty"
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count121
+\calc@Bcount=\count122
+\calc@Adimen=\dimen134
+\calc@Bdimen=\dimen135
+\calc@Askip=\skip48
+\calc@Bskip=\skip49
+LaTeX Info: Redefining \setlength on input line 76.
+LaTeX Info: Redefining \addtolength on input line 77.
+\calc@Ccount=\count123
+\calc@Cskip=\skip50
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\mh\mhsetup.sty"
+Package: mhsetup 2010/01/21 v1.2a programming setup (MH)
+)
+\g_MT_multlinerow_int=\count124
+\l_MT_multwidth_dim=\dimen136
+\origjot=\skip51
+\l_MT_shortvdotswithinadjustabove_dim=\dimen137
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen138
+\l_MT_above_intertext_dim=\dimen139
+\l_MT_below_intertext_dim=\dimen140
+\l_MT_above_shortintertext_dim=\dimen141
+\l_MT_below_shortintertext_dim=\dimen142
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\booktabs\booktabs.sty"
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen143
+\lightrulewidth=\dimen144
+\cmidrulewidth=\dimen145
+\belowrulesep=\dimen146
+\belowbottomsep=\dimen147
+\aboverulesep=\dimen148
+\abovetopsep=\dimen149
+\cmidrulesep=\dimen150
+\cmidrulekern=\dimen151
+\defaultaddspace=\dimen152
+\@cmidla=\count125
+\@cmidlb=\count126
+\@aboverulesep=\dimen153
+\@belowrulesep=\dimen154
+\@thisruleclass=\count127
+\@lastruleclass=\count128
+\@thisrulewidth=\dimen155
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty"
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen156
+\extrarowheight=\dimen157
+\NC@list=\toks22
+\extratabsurround=\skip52
+\backup@length=\skip53
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\multirow\multirow.sty"
+\bigstrutjot=\dimen158
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\placeins\placeins.sty"
+Package: placeins 2005/04/18  v 2.2
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\ltxmisc\varwidth.sty"
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box30
+\sift@deathcycles=\count129
+\@vwid@loff=\dimen159
+\@vwid@roff=\dimen160
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\soul\soul.sty"
+Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
+Requested font "ectt1000" scaled 1000
+ -> ectt1000
+\SOUL@word=\toks23
+\SOUL@lasttoken=\toks24
+\SOUL@cmds=\toks25
+\SOUL@buffer=\toks26
+\SOUL@token=\toks27
+\SOUL@spaceskip=\skip54
+\SOUL@ttwidth=\dimen161
+\SOUL@uldp=\dimen162
+\SOUL@ulht=\dimen163
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\undertilde\undertilde.sty"
+Package: undertilde 2000/08/08 v1.0 Tilde under a math object
+\knuthian@fdfive=\skip55
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\algorithms\algorithm.sty"
+Invalid UTF-8 byte or sequence at line 11 replaced by U+FFFD.
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count130
+\float@exts=\toks28
+\float@box=\box31
+\@float@everytoks=\toks29
+\@floatcapt=\box32
+)
+\@float@every@algorithm=\toks30
+\c@algorithm=\count131
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\algorithmicx\algpseudocode.sty"
+Package: algpseudocode 
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\algorithmicx\algorithmicx.sty"
+Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
+
+Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
+\c@ALG@line=\count132
+\c@ALG@rem=\count133
+\c@ALG@nested=\count134
+\ALG@tlm=\skip56
+\ALG@thistlm=\skip57
+\c@ALG@Lnr=\count135
+\c@ALG@blocknr=\count136
+\c@ALG@storecount=\count137
+\c@ALG@tmpcounter=\count138
+\ALG@tmplength=\skip58
+)
+Document Style - pseudocode environments for use with the `algorithmicx' style
+)
+("D:\Research\Research\Research documents\Fuzzy Expert System for Portfolio\Usi
+ng DS Theory\Fuzzy DS Theory\IJUFKS_Review\IJUFKS\DS Fuzzy ES.aux")
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+Requested font "cmbx10" at 10.0pt
+ -> cmbx10
+Requested font "cmex7" at 7.0pt
+ -> cmex7
+Requested font "cmex7" at 5.0pt
+ -> cmex7
+LaTeX Font Info:    Try loading font information for U+msa on input line 72.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+Requested font "msam10" at 10.0pt
+ -> msam10
+Requested font "msam7" at 7.0pt
+ -> msam7
+Requested font "msam5" at 5.0pt
+ -> msam5
+LaTeX Font Info:    Try loading font information for U+msb on input line 72.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+)
+Requested font "msbm10" at 10.0pt
+ -> msbm10
+Requested font "msbm7" at 7.0pt
+ -> msbm7
+Requested font "msbm5" at 5.0pt
+ -> msbm5
+Requested font "cmr8" at 8.0pt
+ -> cmr8
+Requested font "cmti8" at 8.0pt
+ -> cmti8
+ [1
+
+] [2]
+Missing character: There is no ’ in font cmr10!
+ [3]
+File: Images/article_structure.jpg Graphic file (type QTm)
+
+<use  "Images/article_structure.jpg" >
+Requested font "cmti10" at 10.0pt
+ -> cmti10
+Requested font "cmbxti10" at 10.0pt
+ -> cmbxti10
+ [4]
+Requested font "cmti7" at 7.0pt
+ -> cmti7
+Requested font "cmti7" at 5.0pt
+ -> cmti7
+ [5] [6] [7]
+Requested font "cmr6" at 6.0pt
+ -> cmr6
+Requested font "cmmi8" at 8.0pt
+ -> cmmi8
+Requested font "cmmi6" at 6.0pt
+ -> cmmi6
+Requested font "cmsy8" at 8.0pt
+ -> cmsy8
+Requested font "cmsy6" at 6.0pt
+ -> cmsy6
+Requested font "cmex8" at 8.0pt
+ -> cmex8
+Requested font "cmex7" at 6.0pt
+ -> cmex7
+Requested font "msam10" at 8.0pt
+ -> msam10
+Requested font "msam7" at 6.0pt
+ -> msam7
+Requested font "msbm10" at 8.0pt
+ -> msbm10
+Requested font "msbm7" at 6.0pt
+ -> msbm7
+ [8]
+File: Images/CC_2014-15.png Graphic file (type QTm)
+
+<use  "Images/CC_2014-15.png" >
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: Images/CC_2013-14.png Graphic file (type QTm)
+<use  "Images/CC_2013-14.png" >
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: Images/CC_2012-13.png Graphic file (type QTm)
+<use  "Images/CC_2012-13.png" >
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[9] [10] [11]
+File: Images/architecture_FES.png Graphic file (type QTm)
+ <use  "Images/architecture_FES.png" >
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[12] [13]
+Requested font "cmbx8" at 8.0pt
+ -> cmbx8
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[14]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[15]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[16]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: Images/Rule_base.jpg Graphic file (type QTm)
+<use  "Images/Rule_base.jpg" > [17]
+File: Images/Sensitive_analysis.jpg Graphic file (type QTm)
+ <use  "Images/Sensitive_analysis.jpg" >
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[18] [19] [20]
+Requested font "cmcsc10" at 10.0pt
+ -> cmcsc10
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: Images/F5.eps Graphic file (type eps)
+<Images/F5.eps>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: Images/ant_acu.eps Graphic file (type eps)
+<Images/ant_acu.eps>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[21] [22]
+File: Images/Optimization_SR.jpg Graphic file (type QTm)
+ <use  "Images/Optimization_SR.jpg" >
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: Images/Ant_Accu-SR.jpg Graphic file (type QTm)
+<use  "Images/Ant_Accu-SR.jpg" >
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[23]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: Images/Proposed-vs-SR.png Graphic file (type QTm)
+<use  "Images/Proposed-vs-SR.png" >
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[24]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[25] [26] [27]
+("D:\Research\Research\Research documents\Fuzzy Expert System for Portfolio\Usi
+ng DS Theory\Fuzzy DS Theory\IJUFKS_Review\IJUFKS\DS Fuzzy ES.bbl"
+Requested font "cmr9" at 9.0pt
+ -> cmr9
+Missing character: There is no – in font cmr9!
+ [28]
+Missing character: There is no – in font cmr9!
+Missing character: There is no – in font cmr9!
+Missing character: There is no – in font cmr9!
+Missing character: There is no ’ in font cmr9!
+
+[29]) [30]
+("D:\Research\Research\Research documents\Fuzzy Expert System for Portfolio\Usi
+ng DS Theory\Fuzzy DS Theory\IJUFKS_Review\IJUFKS\DS Fuzzy ES.aux") ) 
+Here is how much of TeX's memory you used:
+ 3421 strings out of 429156
+ 43102 string characters out of 3168943
+ 126855 words of memory out of 3000000
+ 6617 multiletter control sequences out of 15000+200000
+ 11724 words of font info for 44 fonts, out of 3000000 for 9000
+ 786 hyphenation exceptions out of 8191
+ 34i,18n,24p,350b,341s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on DS*Fuzzy*ES.pdf (30 pages).
