@@ -4,6 +4,10 @@
     
 ---
 
+## 🌐Live Demo 
+https://fuzzy-expert-system-stock-bse-jrvxwcszcx8mkawrk4rs5l.streamlit.app/
+
+---
 ## 🎯 Key Features
 - 🧩 Fuzzy Rule Construction using DS-Theory: Implements Dempster-Shafer theory to handle uncertainty and combine evidence from multiple factors efficiently, reducing implementation time and cost ⏱️💰.
 - 🎯 Defuzzification: Converts fuzzy output into crisp values for actionable investment decisions ✅.
