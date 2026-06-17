@@ -174,8 +174,8 @@ if ranking_df is not None:
         with col_t15:
             st.markdown("##### **New Empirical Comparison & Core System Parameters**")
             system_parameters = {
-                "System Architectural Metric": ["Identified Input Factors (P/E, EPS, P/S, LTDER)", "Automated Synthesis Rule Base Size", "Uncertainty Logic Framework Tool", "Portfolio Construction Criterion", "Core Meta-Heuristic Optimization Engine", "Deployment Target Interface Environment"],
-                "Project Implementation Configuration Value": ["4 Fundamental Ratios (Expert Consensus Group Matrix Verified)", "81 Rules (Dempster-Shafer Combination Theory Automated)", "Hybridized Fuzzy Set Theory & DS Evidence Synthesis Module", "Maximize Fuzzy Return vs Semi-variance Downside Risk", "Ant Colony Optimization Continuous Solver Routine (ACO)", "Interactive Real-Time Streamlit Dashboard Framework UI App"]
+                "System Architectural Metric": [ "Automated Synthesis Rule Base Size", "Uncertainty Logic Framework Tool", "Portfolio Construction Criterion", "Core Meta-Heuristic Optimization Engine", "Deployment Target Interface Environment"],
+                "Project Implementation Configuration Value": [ "81 Rules (Dempster-Shafer Combination Theory Automated)", "Hybridized Fuzzy Set Theory & DS Evidence Synthesis Module", "Maximize Fuzzy Return vs Semi-variance Downside Risk", "Ant Colony Optimization Continuous Solver Routine (ACO)", "Interactive Real-Time Streamlit Dashboard Framework UI App"]
             }
             table15_df = pd.DataFrame(system_parameters)
             st.dataframe(table15_df, use_container_width=True)
