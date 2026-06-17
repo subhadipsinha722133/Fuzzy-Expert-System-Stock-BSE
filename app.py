@@ -166,13 +166,13 @@ if ranking_df is not None:
         st.subheader("📋 Empirical Model Validation & System Architecture Summary")
         col_t14, col_t15 = st.columns(2)
         with col_t14:
-            st.markdown(f"##### **New Table 14: Top Recommended Assets Performance Tracking ({selected_fy})**")
+            st.markdown(f"##### **New Top Recommended Assets Performance Tracking ({selected_fy})**")
             table14_df = top_10_fes[['Rank', 'Stock', 'Ticker', 'Expected Return', 'Semi-variance Risk']].copy()
             table14_df['Risk-Reward Ratio (S/R)'] = table14_df['Semi-variance Risk'] / (table14_df['Expected Return'] + 1e-5)
             st.dataframe(table14_df.style.format({'Expected Return': '{:.4f}', 'Semi-variance Risk': '{:.5f}', 'Risk-Reward Ratio (S/R)': '{:.4f}'}), use_container_width=True)
 
         with col_t15:
-            st.markdown("##### **New Table 15: Empirical Comparison & Core System Parameters**")
+            st.markdown("##### **New Empirical Comparison & Core System Parameters**")
             system_parameters = {
                 "System Architectural Metric": ["Identified Input Factors (P/E, EPS, P/S, LTDER)", "Automated Synthesis Rule Base Size", "Uncertainty Logic Framework Tool", "Portfolio Construction Criterion", "Core Meta-Heuristic Optimization Engine", "Deployment Target Interface Environment"],
                 "Project Implementation Configuration Value": ["4 Fundamental Ratios (Expert Consensus Group Matrix Verified)", "81 Rules (Dempster-Shafer Combination Theory Automated)", "Hybridized Fuzzy Set Theory & DS Evidence Synthesis Module", "Maximize Fuzzy Return vs Semi-variance Downside Risk", "Ant Colony Optimization Continuous Solver Routine (ACO)", "Interactive Real-Time Streamlit Dashboard Framework UI App"]
